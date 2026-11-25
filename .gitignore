@@ -1,23 +1,23 @@
 # Virtual environment
-  venv/
-  .env/
+venv/
+.env/
 
-  # Python cache
-  __pycache__/
-  *.py[cod]
-  *$py.class
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
 
-  # Jupyter
-  .ipynb_checkpoints/
+# Jupyter
+.ipynb_checkpoints/
 
-  # Data processed (optional - keep raw)
-  data/processed/
+# Data processed (optional - keep raw)
+data/processed/
 
-  # OS files
-  .DS_Store
-  Thumbs.db
+# OS files
+.DS_Store
+Thumbs.db
 
-  # IDE
-  .vscode/
-  .idea/
-  *.swp
+# IDE
+.vscode/
+.idea/
+*.swp
