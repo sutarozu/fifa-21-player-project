@@ -92,7 +92,7 @@ The notebook `notebooks/01_eda_cleaning.ipynb` contains the complete reproducibl
 4. Monetary — custom parse_eur handles € + K/M/B
 5. Hits — str.strip to pd.to_numeric to int
 6. Team & Contract — multi-format regex parser
-7. Export — fifa21_clean.csv + pickled checkpoints
+7. Export — fifa21_clean.csv
 
 Run all cells top-to-bottom to regenerate.
 
