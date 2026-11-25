@@ -36,7 +36,6 @@ fifa21-player-dataset/
 │       └── fifa21_clean.csv
 ├── notebooks/
 │   └── 01_eda_cleaning.ipynb
-└── src/
 ```
 
 ## Quick Start
